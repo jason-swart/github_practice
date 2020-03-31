@@ -1,2 +1,4 @@
-# DAT201 Github segment
-Creating Github practice repo for class refresher.
+# DAT201 GitHub segment
+Creating GitHub practice repo for class refresher.
+
+Adding text for push demonstration.
